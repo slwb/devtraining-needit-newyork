@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="NeedIt Last Quarter Item Stream">e40c15c3db1733009cc5e9c948961952</item_stream>
+        <master_item display_value="NeedIt Last Quarter Master Item">680c9587db1733009cc5e9c948961916</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-20 18:35:07</sys_created_on>
+        <sys_id>e40c9587db1733009cc5e9c94896191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_e40c9587db1733009cc5e9c94896191c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 18:35:07</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>
