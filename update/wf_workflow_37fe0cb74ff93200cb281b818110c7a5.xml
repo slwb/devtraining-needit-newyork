@@ -6,7 +6,7 @@
         <checked_out/>
         <checked_out_by/>
         <column_renderer display_value="Workflow-driven">a56213111b030100adca1e094f0713ac</column_renderer>
-        <condition table="x_58872_needit_needit">state=14^EQ<item display_value="Awaiting Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="14"/>
+        <condition table="x_58872_needit_needit">state=14^EQ<item display_value="14" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="14"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_type>run_match</condition_type>
@@ -33,12 +33,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-05 16:30:16</sys_created_on>
         <sys_id>fb9d17badb28f7007520f5861d9619bf</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-05 16:33:14</sys_updated_on>
+        <sys_updated_on>2019-08-30 19:21:55</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="NeedIt Approval">37fe0cb74ff93200cb281b818110c7a5</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
