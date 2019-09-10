@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Testing on the NeedIt When needed field date Business Rule to make sure it works in three cases: past date, today, future.</description>
+        <input_filter/>
+        <name>When needed Field NeedIt App</name>
+        <parent display_value="NeedIt App">b52da1b9db3333009cc5e9c948961932</parent>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-10 19:12:11</sys_created_on>
+        <sys_id>089da5f5db3333009cc5e9c948961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed Field NeedIt App</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_089da5f5db3333009cc5e9c948961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-10 19:12:11</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>
